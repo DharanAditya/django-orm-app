@@ -126,7 +126,8 @@ admin.site.register(Employee,EmployeeAdmin)
 ```
 
 ## OUTPUT
-![Screenshot from 2023-10-31 10-53-00](https://github.com/Nijeesh-bit/django-orm-app/assets/89188014/a04ba1f6-a89f-4574-b665-f472eb9d5a61)
+![image](https://github.com/DharanAditya/django-orm-app/assets/147473834/263f6f52-614f-4ee9-a37f-b876affb001b)
+
 
 
 ## RESULT
